@@ -1,0 +1,7 @@
+# Runtime screenshots and logs
+shots/
+*.log
+
+# Local development notes and release output
+_dev/
+dist/
